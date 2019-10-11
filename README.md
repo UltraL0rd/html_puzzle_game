@@ -5,3 +5,9 @@ Just learning how to create a github repo from scratch using sourcetree and inte
 git pull -- To pull changes
 git checkout -b branchname to create a new branch
 git push --set-upstream origin branchname -- Not sure exactly what --set-upstream does
+
+#(unable to update local ref)
+$ git gc --prune=now
+$ git remote prune origin
+
+This seems to be because my repo is broken
