@@ -1,13 +1,7 @@
-# github_basics_lessons
-Just learning how to create a github repo from scratch using sourcetree and intellij
+# Let's make something
+The idea here is to come up with a project that users can contribute to while testing GIT skills
 
-#Learning CLI instead
-git pull -- To pull changes
-git checkout -b branchname to create a new branch
-git push --set-upstream origin branchname -- Not sure exactly what --set-upstream does
-
-#(unable to update local ref)
-$ git gc --prune=now
-$ git remote prune origin
-
-This seems to be because my repo is broken
+#What is required
+We require a UI semantic/bootstrap
+JS lib
+ 
